@@ -1,7 +1,5 @@
 # 🎶 Gesture Music Control
 
-**Eddie Jonathan García Borbón**
-
 ## 📜 Overview
 
 Gesture Music Control explores the intersection of gesture and music through digital musical instruments. By leveraging machine learning, particularly neural networks, this project aims to translate hand gestures into musical control parameters for a granular synthesizer programmed in Pure Data. This research-creation project embraces open-source and DIY methodologies to foster collaborative, experimental learning.
